@@ -13,7 +13,5 @@ Contents
 .. toctree::
 
    prerequisites
-   visualizing-the-fermi-surface
-   basic-theory
    models
-   thouless-pump.ipynb
+   computation-dmrg

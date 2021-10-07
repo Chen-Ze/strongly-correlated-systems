@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'Topological Insulator'
+project = 'Strongly Correlated Systems'
 copyright = '2021, Chen Ze'
 author = 'Chen Ze'
 

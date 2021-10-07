@@ -1,6 +1,6 @@
-Topological Insulators
+Strongly Correlated Systems
 =======================================
 
-My notes on topological insulators.
+My notes on strongly correlated systems.
 
-https://topological-insulators.readthedocs.io/en/latest
+https://strongly-correlated-systems.readthedocs.io/en/latest
